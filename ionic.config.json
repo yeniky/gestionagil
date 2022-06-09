@@ -1,0 +1,7 @@
+{
+  "name": "app-petap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
